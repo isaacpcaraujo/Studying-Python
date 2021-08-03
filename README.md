@@ -1,5 +1,6 @@
-# Python
- Estudos em Python
+
+
+#**Estudos em Python**
 
 Todo conteúdo produzido para esse notebook foi retirado e adaptado por Isaac Pereira da Conceição Araujo, do livro de Eric Matthes, Curso Intensivo de Python. Algumas sintaxes foram revisadas com auxilio da documentação do Python (https://docs.python.org/3/tutorial/index.html) e do W3Schools (https://www.w3schools.com/python/default.asp)
 
